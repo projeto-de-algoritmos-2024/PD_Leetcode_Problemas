@@ -13,10 +13,20 @@
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### [Questão: 773. Sliding Puzzle (Difícil)](https://leetcode.com/problems/sliding-puzzle/description/)
+
+A questão do "Sliding Puzzle" no LeetCode envolve encontrar a sequência mínima de movimentos necessários para transformar um tabuleiro de 2x3 com peças embaralhadas em um estado objetivo, onde as peças estão organizadas na ordem crescente com um espaço vazio no final.
+
+![alt text](src/image.png)
+<p align="center">Solução por Programação Dinâmica 
+
+![alt text](src/image-1.png)
+<p align="center">Solução por DFS
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: python<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
@@ -25,7 +35,3 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
