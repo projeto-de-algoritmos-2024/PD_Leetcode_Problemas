@@ -24,6 +24,13 @@ A questão do "Sliding Puzzle" no LeetCode envolve encontrar a sequência mínim
 ![alt text](src/image-1.png)
 <p align="center">Solução por DFS
 
+### [Questão: 115. Distinct Subsequences (Difícil)](https://leetcode.com/problems/distinct-subsequences/description/)
+
+Dada duas strings `s` e `t`, a tarefa é retornar o número de subsequências distintas de `s` que são iguais a `t`. A solução deve contar quantas formas diferentes é possível formar `t` a partir de `s` respeitando a ordem dos caracteres. Exemplo: Para `s = "rabbbit"` e `t = "rabbit"`, a resposta é 3.
+
+![alt text](src/image-2.png)
+<p align="center">Solução por Programação Dinâmica 
+
 
 ## Instalação 
 **Linguagem**: python<br>
