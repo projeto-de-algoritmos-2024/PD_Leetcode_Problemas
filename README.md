@@ -34,3 +34,7 @@ Dada duas strings `s` e `t`, a tarefa é retornar o número de subsequências di
 
 ## Instalação 
 **Linguagem**: python<br>
+
+## Vídeo
+
+Vídeo da [Questão 773 e 115](https://youtu.be/hPcsASDYTQA)
